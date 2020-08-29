@@ -1,0 +1,15 @@
+{
+  "name": "bases",
+  "version": "1.0.0",
+  "description": "Command line application with nodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cristian Camilo Molina",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^15.4.1"
+  },
+  "devDependencies": {}
+}
